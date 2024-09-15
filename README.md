@@ -35,13 +35,13 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://logolook.net/wp-content/uploads/2022/12/Python-Software-Foundation-Emblem.png">
+  <img align="center" alt="Python" height="30" width="30" src="https://logolook.net/wp-content/uploads/2022/12/Python-Software-Foundation-Emblem.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/images/large/php-logo-1.png">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+  <img align="center" alt="C++" height="30" width="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
 
   
 </div><br>
