@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-     Oii  ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀғɪʟ sᴏᴜ ᴀ  <br> 
+     ᴏɪɪ  ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀғɪʟ sᴏᴜ ᴀ  <br> 
     <a href="https://www.linkedin.com/in/giovanna-clemente-faria-2a3209329/">Giovanna Clemente  🐢</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e Back End, recem formada em Desenvolvimento de Sistemas pela ETEC 
+    Futura desenvolvedora Full stack , recem formada em Desenvolvimento de Sistemas pela ETEC 
     <a href="#">
       <img
            width="5%" 
