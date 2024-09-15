@@ -12,6 +12,8 @@
            width="5%" 
            align="center" 
            valign="middle" 
+            margin-left="10px"
+            border-radius="15px"
            src="https://leonardo-energy.org.br/wp-content/uploads/2017/07/LOGO-ETEC.jpg" 
            target="_blank" 
       />
