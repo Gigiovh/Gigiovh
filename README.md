@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Futura desenvolvedora Full stack , recem formada em Desenvolvimento de Sistemas pela ETEC 
+    Técnica em Desenvolvimento de Sistemas, formada pela ETEC 
     <a href="#">
       <img
            width="5%" 
