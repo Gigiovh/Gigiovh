@@ -2,7 +2,7 @@
   
   <h1 align="center">
      ᴏɪɪ  ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀғɪʟ sᴏᴜ ᴀ  <br> 
-    <a href="https://www.linkedin.com/in/giovanna-clemente-faria-2a3209329/">Giovanna Clemente  🐢</a>
+    <a href="https://www.linkedin.com/in/giovanna-clemente-faria-2a3209329/">Giovanna Clemente Faria</a>
   </h1>
   
   <p align="center">
