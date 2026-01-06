@@ -2,22 +2,12 @@
   
   <h1 align="center">
      ᴏɪɪ  ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀғɪʟ sᴏᴜ ᴀ  <br> 
-    <a href="https://www.linkedin.com/in/giovanna-clemente-faria-2a3209329/">Giovanna Clemente Faria</a>
+    <a href="https://www.linkedin.com/in/giovanna-clemente-faria-2a3209329/">Giovanna Clemente Faria 🍀</a>
   </h1>
   
   <p align="center">
     Técnica em Desenvolvimento de Sistemas, formada pela ETEC 
-    <a href="#">
-      <img
-           width="5%" 
-           align="center" 
-           valign="middle" 
-            margin-left="10px"
-            border-radius="15px"
-           src="https://leonardo-energy.org.br/wp-content/uploads/2017/07/LOGO-ETEC.jpg" 
-           target="_blank" 
-      />
-    </a>  
+   
   </p>
   
   <p align="center">
