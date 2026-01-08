@@ -6,12 +6,19 @@
   </h1>
   
   <p align="center">
-    Técnica em Desenvolvimento de Sistemas, formada pela ETEC 
+
+   Técnica em Desenvolvimento de Sistemas, formada pela **ETEC**.
+
+  Tenho experiência acadêmica em **desenvolvimento de aplicações e softwares**, com foco em lógica de programação, desenvolvimento web e mobile. Ao longo da formação, atuei como **representante de classe**,        desenvolvendo habilidades em liderança, organização e comunicação.
+  
+  Atualmente, utilizo este espaço para compartilhar projetos, exercícios e dicas de estudos, sempre buscando evoluir tecnicamente e aprender novas soluções.
+  
    
   </p>
-  
+  Trabalho com tecnologias como **JavaScript, TypeScript, Python, React, HTML, JAVA e C++**, além de ter contato com boas práticas de desenvolvimento e trabalho em equipe.
   <p align="center">
-    Tenho experiência em gestão de projetos e em liderença, fui representante de classe durante todo o curso.
+   
+
   </p>
   
 </div>
