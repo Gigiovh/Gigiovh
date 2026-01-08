@@ -7,9 +7,7 @@
 
 Técnica em Desenvolvimento de Sistemas, formada pela <b>ETEC</b>.
 
-Tenho experiência acadêmica em <b>desenvolvimento de aplicações e softwares</b>, com foco em lógica de programação, desenvolvimento web e mobile. Ao longo da formação, atuei como <b>representante de classe</b>, desenvolvendo habilidades em liderança, organização e comunicação.
-
-Atualmente, utilizo este espaço para compartilhar projetos, exercícios e dicas de estudos, sempre buscando evoluir tecnicamente e aprender novas soluções.
+Tenho experiência acadêmica em <b>desenvolvimento de aplicações e softwares</b>, com foco em lógica de programação, desenvolvimento web e mobile. Ao longo da formação, atuei como <b>representante de classe</b>, desenvolvendo habilidades em liderança, organização e comunicação. Atualmente, utilizo este espaço para compartilhar projetos, exercícios e dicas de estudos, sempre buscando evoluir tecnicamente e aprender novas soluções.
 
 
 </div>
