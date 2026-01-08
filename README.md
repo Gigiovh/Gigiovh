@@ -3,26 +3,22 @@
   <h1 align="center">
      ᴏɪɪ  ʙᴇᴍ ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀғɪʟ sᴏᴜ ᴀ  <br> 
     <a href="https://www.linkedin.com/in/giovanna-clemente-faria-2a3209329/">Giovanna Clemente Faria 🍀</a>
-  </h1>
-  
-  <p align="center">
+  </h1><div align="center">
 
-   Técnica em Desenvolvimento de Sistemas, formada pela **ETEC**.
+Técnica em Desenvolvimento de Sistemas, formada pela <b>ETEC</b>.
 
-  Tenho experiência acadêmica em **desenvolvimento de aplicações e softwares**, com foco em lógica de programação, desenvolvimento web e mobile. Ao longo da formação, atuei como **representante de classe**,        desenvolvendo habilidades em liderança, organização e comunicação.
-  
-  Atualmente, utilizo este espaço para compartilhar projetos, exercícios e dicas de estudos, sempre buscando evoluir tecnicamente e aprender novas soluções.
-  
-   
-  </p>
-  Trabalho com tecnologias como **JavaScript, TypeScript, Python, React, HTML, JAVA e C++**, além de ter contato com boas práticas de desenvolvimento e trabalho em equipe.
-  <p align="center">
+Tenho experiência acadêmica em <b>desenvolvimento de aplicações e softwares</b>, com foco em lógica de programação, desenvolvimento web e mobile. Ao longo da formação, atuei como <b>representante de classe</b>, desenvolvendo habilidades em liderança, organização e comunicação.
+
+Atualmente, utilizo este espaço para compartilhar projetos, exercícios e dicas de estudos, sempre buscando evoluir tecnicamente e aprender novas soluções.
+
+
+</div>
+
    
 
   </p>
   
 </div>
-
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="50" src="https://logolook.net/wp-content/uploads/2022/12/Python-Software-Foundation-Emblem.png">
